@@ -17,4 +17,7 @@ A curriculum of different Free and Open Source Software Softwares
 └── Electrical-Engineering
     ├── Kicad
     └── Oregano
+        ├── O1-Drawing-A-Circuit
+        └── O2-Simulating-A-Circuit
+
 ```
