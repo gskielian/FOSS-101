@@ -5,22 +5,16 @@ A curriculum of different Free and Open Source Software Softwares
 
 
 
-FOSS by category
+## FOSS by category
 
 ```sh
 .
 ├── Design-and-Photo-Editing
 │   ├── GIMP
-│   │   └── README.md
 │   ├── LightZone
-│   │   └── README.md
 │   └── Scribus
-│       └── README.md
-├── Electrical-Engineering
-│   ├── Kicad
-│   │   └── README.md
-│   └── Oregano
-│       └── README.md
-├── LICENSE
-└── README.md
+│       └── S0-3-Panel-Brochure
+└── Electrical-Engineering
+    ├── Kicad
+    └── Oregano
 ```
